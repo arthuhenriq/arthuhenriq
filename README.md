@@ -3,7 +3,7 @@
   <div>
     <a href="https://github.com/arthuhenriq">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=arthuhenriq&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img><iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?arthuhenriq" frameborder="0"></iframe></img>
+    <img width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?arthuhenriq" frameborder="0"/>
   </div>
 
 ### Tecnologias 💻
